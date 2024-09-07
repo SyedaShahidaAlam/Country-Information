@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Country Information</string>
+
+    <string name="bng_btn">Bangladesh</string>
+    <string name="ind_btn">India</string>
+    <string name="pak_btn">Pakistan</string>
+    <string name="nep_btn">Nepal</string>
+    <string name="bhu_btn">Bhutan</string>
+    <string name="chi_btn">China</string>
+
+
+    <string name="info_bd">Nationality: Bangladeshi\nPopulation: 170 million\nReligion: Majority Muslim\nParliament System: Unicameral (Jatiya Sangsad)\nFavorite Food: Rice and fish (Hilsa)\n\n\nHistorical Place:</string>
+    <string name="info_ind">Nationality: Indian\nPopulation: 1.4 billion\nReligion: Majority Hindu\nParliament System: Bicameral (Lok Sabha, Rajya Sabha)\nFavorite Food: Biryani, curry, dosa\n\n\nHistorical Place:</string>
+    <string name="info_pak">Nationality: Pakistani\nPopulation: 240 million\nReligion: Majority Muslim\nParliament System: Bicameral (Senate, National Assembly)\nFavorite Food: Biryani, Nihari\n\n\nHistorical Place:</string>
+    <string name="info_nep">Nationality: Nepali\nPopulation: 30 million\nReligion: Majority Hindu\nParliament System: Bicameral (National Assembly, House of Representatives)\nFavorite Food: Dal Bhat, momos\n\n\nHistorical Place:</string>
+    <string name="info_bhu">Nationality: Bhutanese\nPopulation: 780,000\nReligion: Majority Buddhist\nParliament System: Bicameral (National Council, National Assembly)\nFavorite Food: Ema Datshi (chili cheese)\n\n\nHistorical Place:</string>
+
+
+    <string name="bng_description">
+        Cox\'s Bazaar - famous for having the longest sea beach in the world.</string>
+    <string name="ind_description">
+        Taj Mahal - a stunning white marble mausoleum built by Emperor Shah Jahan.</string>
+    <string name="pak_description">
+        Lahore Fort - a UNESCO World Heritage Site, symbolizing the grandeur of Mughal architecture.</string>
+    <string name="nep_description">
+        Mount Everest - the highest peak in the world, attracting climbers from across the globe.</string>
+    <string name="bhu_description">
+        Punaka Dzong - a historical fortress and one of Bhutan\'s most iconic landmarks.</string>
+
+
+</resources>
